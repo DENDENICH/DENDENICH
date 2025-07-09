@@ -1,6 +1,16 @@
-## Hi there 👋
+<!-- Для лого -->
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3NXJhbGduaHlqMmpvNTB3NTVlcnV5ZDljdDN1Nm45ZTRoNnE3MW4xZSZlcD12MV9zdGlja2Vyc19zZWFyY2gmY3Q9cw/UmWpVKOvNEv6CHVtl7/giphy.gif" width="200"/>
+</div>
+<!-- Для ссылок на соцсети -->
+<div id="badges">
+  <a href="https://t.me/denmaluen">
+    <img src="https://img.icons8.com/?size=100&id=lvquraXKyz0E&format=png&color=000000&style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Badge"/>
+  </a>
+    <p>Мой телеграмм</p>
+</div>
 
-<!--
+
 **DENDENICH/DENDENICH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,4 +23,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
